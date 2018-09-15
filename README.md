@@ -30,3 +30,4 @@ $ heroku ps:scale web=1  # run the app with a 1 heroku "dyno"
 ```
 
 See the detailed instructions here: https://dash.plot.ly/deployment
+NOTE: Te current app on heroku can be outdated or buggy, please deploy the code available on github repo.
